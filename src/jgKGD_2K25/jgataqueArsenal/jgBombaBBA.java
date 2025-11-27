@@ -1,4 +1,5 @@
-package jgKGD_2K25;
+package jgKGD_2K25.jgataqueArsenal;
+
 
 public class jgBombaBBA {
     

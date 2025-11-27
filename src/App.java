@@ -3,7 +3,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import jgKGD_2K25.*; 
+import jgKGD_2K25.jgHormiga.*;
+import jgKGD_2K25.jgataqueArsenal.*; 
 
 public class App {
     public static void main(String[] args) {

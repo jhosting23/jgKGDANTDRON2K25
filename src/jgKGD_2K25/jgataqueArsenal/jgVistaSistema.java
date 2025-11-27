@@ -1,5 +1,4 @@
-package jgKGD_2K25;
-
+package jgKGD_2K25.jgataqueArsenal;
 public class jgVistaSistema {
     public void jgMostrarBarraCarga() {
         // Loading para "caso contrario" (1 y 8): - +
